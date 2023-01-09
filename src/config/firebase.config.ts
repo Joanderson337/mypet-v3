@@ -10,6 +10,7 @@ const firebaseConfig = {
   storageBucket: 'mypetv3-6473c.appspot.com',
   messagingSenderId: '314249774779',
   appId: '1:314249774779:web:2480a470c1b1d3cbe10b9e'
+
 };
 
 
